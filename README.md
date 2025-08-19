@@ -46,20 +46,6 @@ This project builds upon existing research in:
 - **Collaboration & Version Control:** Git, GitHub  
 - **Optimization:** TensorFlow Model Optimization Toolkit, TFLite Converter  
 
----
-
-## ⏳ Timeline
-- **Week 1-2:** Literature survey & dataset preparation  
-- **Week 3-4:** Model design & initial training  
-- **Week 5:** Integration of depth + IMU sensor fusion  
-- **Week 6:** Model optimization & deployment (TFLite/ONNX)  
-- **Week 7:** Testing & evaluation on real-world data  
-- **Week 8:** Documentation & GitHub release  
-
----
-
-## 🔗 GitHub Link
-➡️ *[Will be updated once the repo is public]*  
 
 ---
 
